@@ -13,3 +13,4 @@ jobs:
           cxUsername: MacpawAdmin@Cx.Com
           cxPassword: ${{ secrets.CX_PASSWORD }}
           cxTeam: /CxServer
+          cxGithubIssues: true
