@@ -16,3 +16,6 @@ jobs:
           cxGithubIssues: true
           cxGithubToken: ${{ secrets.GITHUB_TOKEN }}
           cxGithubLabels: bug,test
+          cxHigh: 1
+          cxMedium: 1
+          cxLow: 1
