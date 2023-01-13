@@ -18,6 +18,10 @@ const { port, db, cookieSecret } = require("./config/config"); // Application co
 
 const AWS_KEY = "AKIAI6KIQRRVMGK3WK5Q";
 const AWS_KEY_SECOND = "AKIAI6KIQRRVMGK3WK5F";
+const id = 'SK8ead4271db98e180790cd11c703020b4';
+const key = 'ibc1fPfwL69Fi5UZ3sLXbWZwJcXPGmkI';
+const key2 = 'ibc1fPfwsdsL69Fi5UZ3sLXbWZwJcXPGmkI';
+const picaticKey = 'sk_live_refh3478fdchds7chs732dh78sdhew78';
 
 /*
 // Fix for A6-Sensitive Data Exposure
