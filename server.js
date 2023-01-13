@@ -17,6 +17,7 @@ const routes = require("./app/routes");
 const { port, db, cookieSecret } = require("./config/config"); // Application config properties
 
 const AWS_KEY = "AKIAI6KIQRRVMGK3WK5Q";
+const AWS_KEY_SECOND = "AKIAI6KIQRRVMGK3WK5F";
 
 /*
 // Fix for A6-Sensitive Data Exposure
